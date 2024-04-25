@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Joseph Obligado
-- I’m a full-stack web developer
+- I’m a full-stack mobile and web developer
 - 📫 You can reach me via email obligado86@yahoo.com ...
